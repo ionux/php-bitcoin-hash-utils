@@ -28,5 +28,5 @@ License
      style="border-style: none;" alt="Public Domain Mark" />
 </a>
 <br />
-This work, based upon code by <a href="http://pastebin.com/vmRQC7ha" rel="dct:creator"><span property="dct:title">unknown</span></a> and identified & enhanced by <a href="https://github.com/ionux" rel="dct:publisher"><span property="dct:title">Rich Morgan</span></a>, is free of known copyright restrictions.
+This work, based upon code by <a href="http://pastebin.com/vmRQC7ha" rel="dct:creator"><span property="dct:title">unknown</span></a> and enhanced by <a href="https://github.com/ionux" rel="dct:publisher"><span property="dct:title">Rich Morgan</span></a>, is free of known copyright restrictions.
 </p>
