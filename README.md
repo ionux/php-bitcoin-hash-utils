@@ -18,3 +18,15 @@ For example:
 include_once('class.BitcoinHashUtils.php');
 $WIF_address = BitcoinHashUtils::encodeBase58($hex_string);
 </pre>
+
+
+License
+-------
+<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">class.BitcoinHashUtils.php</span>, by <a href="http://pastebin.com/vmRQC7ha" rel="dct:creator"><span property="dct:title">unknown</span></a>), identified by <a href="https://github.com/ionux" rel="dct:publisher"><span property="dct:title">Rich Morgan</span></a>, is free of known copyright restrictions.
+</p>
